@@ -1,0 +1,7 @@
+transformers
+spacy
+streamlit
+gtts
+torch
+sentencepiece  
+tensorflow
